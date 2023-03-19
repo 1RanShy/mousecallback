@@ -1,6 +1,6 @@
 CMakeFiles/CMouse.dir/mouse.cpp.obj: \
- C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\mouse.cpp \
- C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\mouse.h \
+ C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\mouse.cpp \
+ C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\mouse.h \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \

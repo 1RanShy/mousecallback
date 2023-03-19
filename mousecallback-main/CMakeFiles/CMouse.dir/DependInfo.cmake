@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/RanShy/Desktop/Pet-Automatic-Feeder/mousecallback-main/main.cpp" "CMakeFiles/CMouse.dir/main.cpp.obj" "gcc" "CMakeFiles/CMouse.dir/main.cpp.obj.d"
-  "C:/Users/RanShy/Desktop/Pet-Automatic-Feeder/mousecallback-main/mouse.cpp" "CMakeFiles/CMouse.dir/mouse.cpp.obj" "gcc" "CMakeFiles/CMouse.dir/mouse.cpp.obj.d"
+  "C:/Users/RanShy/Desktop/mousecallback/mousecallback-main/main.cpp" "CMakeFiles/CMouse.dir/main.cpp.obj" "gcc" "CMakeFiles/CMouse.dir/main.cpp.obj.d"
+  "C:/Users/RanShy/Desktop/mousecallback/mousecallback-main/mouse.cpp" "CMakeFiles/CMouse.dir/mouse.cpp.obj" "gcc" "CMakeFiles/CMouse.dir/mouse.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main
+CMAKE_SOURCE_DIR = C:\Users\RanShy\Desktop\mousecallback\mousecallback-main
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main
+CMAKE_BINARY_DIR = C:\Users\RanShy\Desktop\mousecallback\mousecallback-main
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CMouse.dir/depend.make
@@ -71,30 +71,30 @@ include CMakeFiles/CMouse.dir/flags.make
 CMakeFiles/CMouse.dir/mouse.cpp.obj: CMakeFiles/CMouse.dir/flags.make
 CMakeFiles/CMouse.dir/mouse.cpp.obj: mouse.cpp
 CMakeFiles/CMouse.dir/mouse.cpp.obj: CMakeFiles/CMouse.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CMouse.dir/mouse.cpp.obj"
-	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CMouse.dir/mouse.cpp.obj -MF CMakeFiles\CMouse.dir\mouse.cpp.obj.d -o CMakeFiles\CMouse.dir\mouse.cpp.obj -c C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\mouse.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CMouse.dir/mouse.cpp.obj"
+	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CMouse.dir/mouse.cpp.obj -MF CMakeFiles\CMouse.dir\mouse.cpp.obj.d -o CMakeFiles\CMouse.dir\mouse.cpp.obj -c C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\mouse.cpp
 
 CMakeFiles/CMouse.dir/mouse.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CMouse.dir/mouse.cpp.i"
-	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\mouse.cpp > CMakeFiles\CMouse.dir\mouse.cpp.i
+	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\mouse.cpp > CMakeFiles\CMouse.dir\mouse.cpp.i
 
 CMakeFiles/CMouse.dir/mouse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CMouse.dir/mouse.cpp.s"
-	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\mouse.cpp -o CMakeFiles\CMouse.dir\mouse.cpp.s
+	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\mouse.cpp -o CMakeFiles\CMouse.dir\mouse.cpp.s
 
 CMakeFiles/CMouse.dir/main.cpp.obj: CMakeFiles/CMouse.dir/flags.make
 CMakeFiles/CMouse.dir/main.cpp.obj: main.cpp
 CMakeFiles/CMouse.dir/main.cpp.obj: CMakeFiles/CMouse.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CMouse.dir/main.cpp.obj"
-	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CMouse.dir/main.cpp.obj -MF CMakeFiles\CMouse.dir\main.cpp.obj.d -o CMakeFiles\CMouse.dir\main.cpp.obj -c C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CMouse.dir/main.cpp.obj"
+	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CMouse.dir/main.cpp.obj -MF CMakeFiles\CMouse.dir\main.cpp.obj.d -o CMakeFiles\CMouse.dir\main.cpp.obj -c C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\main.cpp
 
 CMakeFiles/CMouse.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CMouse.dir/main.cpp.i"
-	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\main.cpp > CMakeFiles\CMouse.dir\main.cpp.i
+	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\main.cpp > CMakeFiles\CMouse.dir\main.cpp.i
 
 CMakeFiles/CMouse.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CMouse.dir/main.cpp.s"
-	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\main.cpp -o CMakeFiles\CMouse.dir\main.cpp.s
+	D:\Softwares\C_Compile\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\main.cpp -o CMakeFiles\CMouse.dir\main.cpp.s
 
 # Object files for target CMouse
 CMouse_OBJECTS = \
@@ -110,7 +110,7 @@ CMouse.exe: CMakeFiles/CMouse.dir/build.make
 CMouse.exe: CMakeFiles/CMouse.dir/linkLibs.rsp
 CMouse.exe: CMakeFiles/CMouse.dir/objects1.rsp
 CMouse.exe: CMakeFiles/CMouse.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CMouse.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CMouse.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CMouse.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -122,6 +122,6 @@ CMakeFiles/CMouse.dir/clean:
 .PHONY : CMakeFiles/CMouse.dir/clean
 
 CMakeFiles/CMouse.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main C:\Users\RanShy\Desktop\Pet-Automatic-Feeder\mousecallback-main\CMakeFiles\CMouse.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\RanShy\Desktop\mousecallback\mousecallback-main C:\Users\RanShy\Desktop\mousecallback\mousecallback-main C:\Users\RanShy\Desktop\mousecallback\mousecallback-main C:\Users\RanShy\Desktop\mousecallback\mousecallback-main C:\Users\RanShy\Desktop\mousecallback\mousecallback-main\CMakeFiles\CMouse.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CMouse.dir/depend
 
